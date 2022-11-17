@@ -31,13 +31,14 @@ This is a transfer learning demo based on the VGG16 which is being performed on 
  
  The training will be implemented on CPU by fault if the CUDA is not installed.
  
- Things you could do with this code:
  
- a. Fully execute this code with the dataset to check and plot the accuracy and loss
+ ## Things you could do with this code:
  
- b. Modify the hyperparameters for the model selection to figure out the optimal combination
+ *a. Fully execute this code with the dataset to check and plot the accuracy and loss*
  
- c. Replace the dataset with your interested image datasets and repeat the process above
+ *b. Modify the hyperparameters for the model selection to figure out the optimal combination*
+ 
+ *c. Replace the dataset with your interested image datasets and repeat the process above*
  
  I will be specifying the parameters you could fine with;
  
