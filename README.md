@@ -76,6 +76,10 @@ iii. Epochs
 I believe the epochs might be intuitive to be understood which determines how many times the model can see the entire datasets. Enough epochs can ensure the model is able to fully extract the critical features from the dataset so that you can observe the loss and accuracy vary as the epochs, but the model would converge after some certain epochs and overmuch eopochs can make the model overfit to the dataset.
 
 
+iv. New Dataset
+
+Ensure the images are categorized and stored in the folder named as the corresponding class name.
+
 ---
 ## Hope you can enjoy playing with the code!
  
